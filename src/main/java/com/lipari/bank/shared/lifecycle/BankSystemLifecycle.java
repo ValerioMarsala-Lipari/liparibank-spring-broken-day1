@@ -1,4 +1,4 @@
-package com.lipari.bank.lifecycle;
+package com.lipari.bank.shared.lifecycle;
 
 import com.lipari.bank.shared.config.LipariBankProperties;
 import jakarta.annotation.PostConstruct;
